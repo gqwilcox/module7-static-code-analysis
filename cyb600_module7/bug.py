@@ -13,7 +13,6 @@ def unlock_the_locks():
     if word1 == "key1":
         if word2 == "key2":
             return "Unlocked!"
-    elif word1 == "key1":
         return "Key 1 Unlocked"
     return "Locked!"
 
